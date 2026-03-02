@@ -1,4 +1,4 @@
-# rag-v0
+# Basic PDF Semantic Search Engine
 
 This is a simple Vite + React semantic search engine demo using LangChain.js.
 
@@ -15,3 +15,4 @@ npm run dev
 npm run build
 npm run preview
 ```
+
