@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/types.ts","./src/vite-env.d.ts","./src/lib/chunking.ts","./src/lib/embeddings.ts","./src/lib/eval.ts","./src/lib/pdf.ts","./src/lib/retrieval.ts","./src/lib/vectorstore.ts"],"version":"5.9.3"}
